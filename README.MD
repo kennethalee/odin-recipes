@@ -32,3 +32,7 @@ Create a site that:
 - Add CSS for better visuals.
 - Implement responsive design.
 - Expand recipe variety and structure.
+
+## Personal Thoughts
+- I had problems implementing the images. It took a fairly long time for me to fix the issue, but I figured it out (details are in the activity tab).
+- Other than that, it was pretty straightforward, and I’m looking forward to adding more features and decorations.
